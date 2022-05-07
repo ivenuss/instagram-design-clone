@@ -1,6 +1,5 @@
 ## About project
-My goal was to learn and get better understand about CSS and how it works so I tried to create clone of some page.
-Responsivity of page is fastly done, because instagram has own.
+My goal was to learn and get better understanding about CSS and how it works. I tried to create a clone of some popular page.
 
 ## Snippet
 
